@@ -1,18 +1,16 @@
-**Читать на других языках: [Русский](README.md), [Українська](README.ua.md).**
+# Admission criteria
 
-# Критерии приема
+- - Repositories `goit-js-hw-11-color-switch` have been created,
+  `goit-js-hw-11-promotion` and `goit-js-hw-11-timer'.
+- When submitting homework, there are two links for each project: to the source
+files and a working page on GitHub pages.
+- When visiting the work page (GitHub pages) of the task, there are no errors and
+warnings in the console
+- Names of variables and functions are clear, descriptive
+- The code is formatted with `Prettier`
 
-- Созданы репозитории `goit-js-hw-11-color-switch`,
-  `goit-js-hw-11-promisification` и `goit-js-hw-11-timer`.
-- При сдаче домашней работы есть две ссылки для каждого проекта: на исходные
-  файлы и рабочую страницу на GitHub pages.
-- При посещении рабочей страницы (GitHub pages) задания, в консоли нету ошибок и
-  предупреждений
-- Имена переменных и функций понятные, описательные
-- Код отформатирован с помощью `Prettier`
+## Tasks
 
-## Задания
-
-- [Задание 1 - Переключатель цветов](./color-switch/README.md)
-- [Задание 2 - Промисификация](./promisification/README.md)
-- [Задание 3 - Таймер обратного отсчета](./timer/README.md)
+- [Task 1 - Color switch](./color-switch/README.md)
+- [Task 2 - Promisification](./promisification/README.md)
+- [Task 3 - Countdown Timer](./timer/README.md)
